@@ -1,10 +1,5 @@
-# A Complete Intro to React
+This application is a part of tutorial over a webiste frontend masters. The course is by Brian Holt. Amazing tutorial to learn react.
 
-Welcome to a complete intro to React! The site actual workshop material for this repo can be found [here][gh-page]. On the master branch you will find the completed project. On the start branch you will find the barebones boilerplater of the project designed to help you get started.
-
-## Contributing
-
-Please contribute, file issues, and make PRs. More than anything I'm sure there are typos abounding.
 
 ## License
 
